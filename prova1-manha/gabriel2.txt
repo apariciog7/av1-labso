@@ -1,0 +1,11 @@
+gabriel07
+gabriel1.txt
+gabriel2.txt
+gabriel3.txt
+grepdata.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-gabriel.txt
